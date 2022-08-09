@@ -7,5 +7,6 @@ namespace StudentApp.DataAccess
 {
     public class StudentDataAccess
     {
+
     }
 }
